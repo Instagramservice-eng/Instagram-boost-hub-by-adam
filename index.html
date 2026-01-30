@@ -138,6 +138,31 @@ footer{
   <p style="font-size:13px;margin-top:10px;">Upload proofs via WhatsApp groups
   </p>
 </section>
+  <style>
+/* SECTION ANIMATION */
+section{
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 0.8s ease forwards;
+}
+
+section:nth-child(1){animation-delay:0.1s;}
+section:nth-child(2){animation-delay:0.2s;}
+section:nth-child(3){animation-delay:0.3s;}
+section:nth-child(4){animation-delay:0.4s;}
+section:nth-child(5){animation-delay:0.5s;}
+
+@keyframes fadeUp{
+  from{
+    opacity:0;
+    transform:translateY(30px);
+  }
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
+  </style>
 
 <footer>
   Grow together • Stay organic 💚 <br>
