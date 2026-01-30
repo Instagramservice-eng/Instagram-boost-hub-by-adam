@@ -1,1 +1,144 @@
-# Instagram-boost-hub-by-adam
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Instagram Growth Hub</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:#0f0f0f;
+  color:#ffffff;
+  text-align:center;
+}
+
+/* HEADER */
+header{
+  padding:45px 20px;
+  background:linear-gradient(135deg,#ff0057,#6a00ff);
+}
+header h1{
+  margin:0;
+  font-size:32px;
+}
+header p{
+  margin-top:10px;
+  opacity:0.9;
+}
+
+/* SECTIONS */
+section{
+  padding:30px 18px;
+}
+h2{
+  margin-bottom:10px;
+  color:#25d366;
+}
+p{
+  line-height:1.6;
+  opacity:0.95;
+}
+
+/* BUTTONS */
+.btn{
+  display:block;
+  margin:12px auto;
+  padding:14px 20px;
+  width:85%;
+  max-width:320px;
+  background:#25d366;
+  color:#000;
+  text-decoration:none;
+  font-weight:bold;
+  border-radius:10px;
+}
+
+/* GALLERY */
+.gallery{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(120px,1fr));
+  gap:10px;
+  margin-top:15px;
+}
+.gallery img{
+  width:100%;
+  border-radius:10px;
+  border:2px solid #25d366;
+}
+
+/* FOOTER */
+footer{
+  padding:20px;
+  font-size:14px;
+  opacity:0.7;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>INSTAGRAM GROWTH HUB 🚀</h1>
+  <p>100% Organic Instagram Growth Community</p>
+</header>
+
+<section>
+  <h2>🎁 FREE SERVICE</h2>
+  <p>✅ <b>1K Followers / Views – FREE</b></p>
+  <p>❌ No bots • ❌ No fake • ✅ Real people only</p>
+</section>
+
+<section>
+  <h2>🤝 How It Works</h2>
+  <p>• Join our WhatsApp groups</p>
+  <p>• Support others (like • follow • comment)</p>
+  <p>• Get organic reach & real followers</p>
+</section>
+
+<section>
+  <h2>📌 Rules</h2>
+  <p>• Daily support compulsory</p>
+  <p>• Back support must</p>
+  <p>• No DM spam</p>
+  <p>• Fake activity = remove</p>
+  <p>• Admin decision final</p>
+</section>
+
+<section>
+  <h2>🔗 Join Our WhatsApp Groups</h2>
+
+  <a class="btn" href="https://chat.whatsapp.com/DfQEhiwejknJF3Pti6Sl5x?mode=gi_t">
+    Join Group 1 (Main)
+  </a>
+
+  <a class="btn" href="https://chat.whatsapp.com/KzCSrI2IaoqHlwA3jkSFvh?mode=gi_t">
+    Join Group 2 (Support)
+  </a>
+
+  <a class="btn" href="https://chat.whatsapp.com/DR5b1JFcla19nAFucRMlsB?mode=gi_t">
+    Join Group 3 (Community)
+  </a>
+</section>
+
+<section>
+  <h2>📸 Proof Gallery</h2>
+  <p>Real results • Real people • Organic growth</p>
+
+  <div class="gallery">
+    <img src="proof1.jpg" alt="Proof 1">
+    <img src="proof2.jpg" alt="Proof 2">
+    <img src="proof3.jpg" alt="Proof 3">
+  </div>
+
+  <p style="font-size:13px;margin-top:10px;">Upload proof images in GitHub repo</p>
+</section>
+
+<footer>
+  Grow together • Stay organic 💚 <br>
+  © Instagram Growth Hub
+</footer>
+
+</body>
+</html>
